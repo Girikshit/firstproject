@@ -1,5 +1,8 @@
 <html>
 <head>
+<title>
+My project
+<title/>
 <body>
 Hello world
 <body/>
